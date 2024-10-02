@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Janken</string>
+    <string name="app_name">Rock-Paper-Scissors app</string>
+    <string name="draw">It\'s tie.</string>
+    <string name="player_win">You win.</string>
+    <string name="computer_wins">Computer wins</string>
+    <string name="gu">Rock</string>
+    <string name="choki">Scissors</string>
+    <string name="pa">Paper</string>
 </resources>

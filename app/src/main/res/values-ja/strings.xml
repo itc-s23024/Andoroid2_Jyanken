@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">じゃんけんアプリ</string>
+    <string name="draw">あいこです</string>
+    <string name="player_win">あなたの勝ちです</string>
+    <string name="computer_wins">コンピュータの勝ちです</string>
+    <string name="gu">グー</string>
+    <string name="choki">チョキ</string>
+    <string name="pa">パー</string>
+</resources>
